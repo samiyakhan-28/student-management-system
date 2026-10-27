@@ -27,34 +27,6 @@ student-management-system/
 │
 ├── Student_management_system.py
 └── README.md
-```
-
-## ▶️ How to Run
-
-1. Install Python 3 on your computer.
-2. Clone this repository:
-
-   ```bash
-   git clone https://github.com/samiyakhan-28/student-management-system.git
-   ```
-
-3. Open the project folder:
-
-   ```bash
-   cd student-management-system
-   ```
-
-4. Run the Python program:
-
-   ```bash
-   python3 Student_management_system.py
-   ```
-
-   On Windows, you can also try:
-
-   ```bash
-   python Student_management_system.py
-   ```
 
 ## 📚 What I Learned
 
